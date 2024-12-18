@@ -1,6 +1,5 @@
-# DiscoForge
-DiscoForge allows you to create Discord bots in Python easily and with less code. 🎉
-
+[![DiscoForge](https://github.com/user-attachments/assets/bb1c86a3-59e2-46d1-b2eb-0f24374cc694)](https://github.com/MilesWK/DiscoForge/)
+Create Discord Bots in Python quickly, with easy code!
 [![PyPI version](https://badge.fury.io/py/DiscoForge.svg)](https://badge.fury.io/py/DiscoForge)
 [![PyPI - License](https://img.shields.io/pypi/l/DiscoForge)](https://pypi.org/project/DiscoForge/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/DiscoForge)](https://pypi.org/project/DiscoForge/)

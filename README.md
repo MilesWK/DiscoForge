@@ -6,7 +6,9 @@ DiscoForge allows you to create Discord bots in Python easily and with less code
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/DiscoForge)](https://pypi.org/project/DiscoForge/)
 [![PyPI status](https://img.shields.io/pypi/status/DiscoForge.svg)](https://pypi.python.org/pypi/DiscoForge/)
 
+
 **Installation ⬇️**
+
 Use `pip` to install the DiscoForge in the command prompt/terminal of your computer:
 ```bash
 pip install DiscoForge
@@ -19,6 +21,7 @@ os.system("pip install DiscoForge")
 ```
 
 **Quick Usage ⏩**
+
 Wanna create a Discord bot with a REAL slash command, let's do it!
 
 ```python
